@@ -18,7 +18,8 @@
 
 ## Section III
 
-* [Rank Structure](section-iii/rank-structure.md)
+* [Rank Structure](section-iii/rank-structure/README.md)
+  * [Duties & Responsibilities](section-iii/rank-structure/duties-and-responsibilities.md)
 * [Training & FTO/FTA Information](section-iii/training-and-fto-fta-information.md)
 
 ## Section IV
