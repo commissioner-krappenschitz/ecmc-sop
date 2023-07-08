@@ -51,3 +51,13 @@
   * Runs the hospital.
   * Oversees all procedure, reports, etc.
 * CEO
+
+{% hint style="info" %}
+If you are not a certified to a certain subdivision or have the scopes of a department, you will not do perform/execute any of them.
+
+For example:
+
+* If you applied as a Nurse or Doctor for the department/hospital, you will not respond to any distress calls outside the hospital unless you are a paramedic certified personnel.
+  * You will only disregard this rule unless you are requested by the Eastdale Police Department during robberies/MCI (mass casualties incident) calls.
+* Ask permissions from your supervisors.
+{% endhint %}
